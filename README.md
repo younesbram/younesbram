@@ -10,6 +10,6 @@
 
 
 [![Twitter Badge](https://img.shields.io/badge/-didntdrinkwater-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/didntdrinkwater/)](https://twitter.com/didntdrinkwater/)
-[![Linkedin Badge](https://img.shields.io/badge/-didntdrinkwater-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/younesbrahimi/)](https://www.linkedin.com/in/younesbrahimi/)
+[![Linkedin Badge](https://img.shields.io/badge/-younesbrahimi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/younesbrahimi/)](https://www.linkedin.com/in/younesbrahimi/)
 [![Gmail Badge](https://img.shields.io/badge/-younesssbrahimi-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:younesssbrahimi@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-zzzyounes-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/zzzyounes/)](https://instagram.com/zzzyounes)
