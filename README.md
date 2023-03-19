@@ -5,7 +5,8 @@
 </p>
   <img src="https://discord.c99.nl/widget/theme-3/674384301764247576.png">
 </p>
-👉 Hello , my name is younes. welcome to my profile, feel free to connect with me below 👉
+
+##  👉 feel free to connect with me below 👉
 
 
 
@@ -13,3 +14,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-younesbrahimi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/younesbrahimi/)](https://www.linkedin.com/in/younesbrahimi/)
 [![Gmail Badge](https://img.shields.io/badge/-younesssbrahimi-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:younesssbrahimi@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-zzzyounes-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/zzzyounes/)](https://instagram.com/zzzyounes)
+
+## Support me by buying me coffee and GPU time!
+[![Donate](https://img.shields.io/badge/donate-coffee-green.svg)](https://donate.stripe.com/dR68x365dgNPaXeaEE)
