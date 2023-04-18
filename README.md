@@ -15,7 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-younesssbrahimi-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:younesssbrahimi@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-zzzyounes-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/zzzyounes/)](https://instagram.com/zzzyounes/)
 [![younes.ca Badge](https://img.shields.io/badge/-younes.ca-orange?style=plastic&logo=Google-Chrome&logoColor=white&link=https://younes.ca/)](https://younes.ca/)
-[![gitgrep Badge](https://img.shields.io/badge/-gitgrep-black?style=plastic&logo=GitHub&logoColor=white&link=https://younesbram.github.io/gitgrep/)](https://younesbram.github.io/gitgrep/)
+[![gitgrep Badge](https://img.shields.io/badge/-gitgrep-black?style=plastic&logo=GitHub&logoColor=white&link=https://younesbram.github.io/)](https://younesbram.github.io/gitgrep/)
 
 
 ## Support me by buying me coffee and GPU time!
