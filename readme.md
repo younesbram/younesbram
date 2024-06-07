@@ -1,19 +1,4 @@
-<img src="https://static.wikia.nocookie.net/wowpedia/images/e/e7/Murloc_Confused_Travolta.gif/revision/latest?cb=20190115161042">
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=younesbram&color=blueviolet&style=Plastic">
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/younesbram/younesbram/blob/main/matrix-2953869_1280%20(1).jpg');]{x0000}$}
 
-
-##  👉 feel free to connect with me below 👉
-
-
-
-[![Twitter Badge](https://img.shields.io/badge/-didntdrinkwater-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/didntdrinkwater/)](https://twitter.com/didntdrinkwater/)
-
-[![Gmail Badge](https://img.shields.io/badge/-younes@younes.ca-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:younes@younes.ca)](mailto:younes@younes.ca)
-[![younes.ca Badge](https://img.shields.io/badge/-younes.ca-orange?style=plastic&logo=Google-Chrome&logoColor=white&link=https://younes.ca/)](https://younes.ca/)
-
-[![gitgrep Badge](https://img.shields.io/badge/-my%20repos-black?style=plastic&logo=GitHub&logoColor=white&link=https://younesbram.github.io/)](https://younesbram.github.io/)
-
-
-[![Donate](https://img.shields.io/badge/donate-coffee-green.svg)](https://donate.stripe.com/dR68x365dgNPaXeaEE)
