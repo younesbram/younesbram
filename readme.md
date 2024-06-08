@@ -29,7 +29,7 @@ inset:0;
 object-fit: cover;
 background-size: cover;
 width: 130vw;
-opacity: 0.4;
+opacity: 0.6;
 background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/matrix.gif');
 "]{}
 
@@ -43,7 +43,7 @@ inset:0;
 object-fit: cover;
 background-size: cover;
 background-image: url('https://github.com/younesbram/younesbram/blob/main/for_preferred_client%20(3).png?raw=true');
-opacity: 0.3;
+opacity: 0.5;
 "]{}
 
 \mmlToken{ms}[fontfamily="
@@ -56,7 +56,7 @@ inset:0;
 object-fit: cover;
 background-size: cover;
 background-image: url('https://github.com/younesbram/younesbram/blob/main/for_preferred_patron%20(1).png?raw=true');
-opacity: 0.2;
+opacity: 0.5;
 "]{}
 
 \mmlToken{ms}[fontfamily="
@@ -69,7 +69,7 @@ inset:0;
 object-fit: cover;
 background-size: cover;
 background-image: url('https://github.com/younesbram/younesbram/blob/main/for_exceptional_gangster.png?raw=true');
-opacity: 0.2;
+opacity: 0.4;
 "]{}
 
 \mmlToken{ms}[fontfamily="
