@@ -18,4 +18,7 @@
 
 [![Donate](https://img.shields.io/badge/donate-coffee-green.svg)](https://donate.stripe.com/dR68x365dgNPaXeaEE)
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.666; background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/matrix.gif');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.98; background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/matrix.gif');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; z-index: 1; pointer-events: none; background-size: cover; background-image: url('https://github.com/younesbram/younesbram/blob/main/for_preferred_client%20(3).png?raw=true'); opacity: 0.6;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; z-index: 2; pointer-events: none; background-size: cover; background-image: url('https://github.com/younesbram/younesbram/blob/main/for_preferred_patron%20(1).png?raw=true'); opacity: 0.45;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; z-index: 3; pointer-events: none; background-size: cover; background-image: url('https://github.com/younesbram/younesbram/blob/main/for_exceptional_gangster.png?raw=true'); opacity: 0.6;]{x0000}$}
