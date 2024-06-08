@@ -88,6 +88,6 @@ translate: -20% -50%;
 opacity: 0.5;
 background-repeat: repeat;
 background-size: 100% 100%;
-height: 600px;
+height: 200px;
 background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy2.gif?raw=true');
 "]{}
