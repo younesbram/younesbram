@@ -28,7 +28,8 @@ position: fixed;
 inset:0;
 object-fit: cover;
 background-size: cover;
-width: 130vw;
+width: 100vw;
+height: 100vh;
 opacity: 0.8;
 background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/matrix.gif');
 "]{}
@@ -42,8 +43,10 @@ position: fixed;
 inset:0;
 object-fit: cover;
 background-size: cover;
+width: 100vw;
+height: 100vh;
 background-image: url('https://github.com/younesbram/younesbram/blob/main/for_preferred_client%20(3).png?raw=true');
-opacity: 0.666;
+opacity: 0.5;
 "]{}
 
 \mmlToken{ms}[fontfamily="
@@ -66,7 +69,7 @@ animation: switchImage 4s infinite;
 0% { background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy1.gif?raw=true'); }
 50% { background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy1.gif?raw=true'); }
 51% { background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy2.gif?raw=true'); }
-100% { background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy2.gif?raw=true'); }
+70% { background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy2.gif?raw=true'); }
 }
 "]{}
 
@@ -81,11 +84,10 @@ top: 50dvb;
 width: 80dvmin;
 background-position: 0 0;
 height: 80dvmin;
-translate: -20% -500%;
+translate: -20% -50%;
 opacity: 0.5;
 background-repeat: repeat;
 background-size: 100% 100%;
 height: 600px;
-animation: 9s linear both infinite shrink-x;
 background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy2.gif?raw=true');
 "]{}
