@@ -27,9 +27,9 @@ z-index: -11;
 position: fixed;
 inset:0;
 object-fit: cover;
-background-size: cover;
-width: 100vw;
-height: 100vh;
+background-size: fill;
+width: 10000vw;
+height: 10000vh;
 opacity: 0.71;
-background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/jerry2.gif');
+background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/jerry.gif');
 "]{}
