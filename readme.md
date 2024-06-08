@@ -29,7 +29,7 @@ inset:0;
 object-fit: cover;
 background-size: cover;
 width: 130vw;
-opacity: 0.6;
+opacity: 0.666;
 background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/matrix.gif');
 "]{}
 
