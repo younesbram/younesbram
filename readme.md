@@ -31,5 +31,5 @@ background-size: cover;
 width: 100vw;
 height: 100vh;
 opacity: 0.71;
-background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/jerry.gif');
+background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/jerry2.gif');
 "]{}
