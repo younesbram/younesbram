@@ -17,20 +17,101 @@
 
 
 [![Donate](https://img.shields.io/badge/donate-coffee-green.svg)](https://donate.stripe.com/dR68x365dgNPaXeaEE)
+
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.66; background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/matrix.gif');]{x0000}$}
-\ce{$&#x5C;unicode[goombafont; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; z-index: 1; pointer-events: none; background-size: cover; background-image: url('https://github.com/younesbram/younesbram/blob/main/for_preferred_client%20(3).png?raw=true'); opacity: 0.6;]{x0000}$}
-\ce{$&#x5C;unicode[goombafont; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; z-index: 2; pointer-events: none; background-size: cover; background-image: url('https://github.com/younesbram/younesbram/blob/main/for_preferred_patron%20(1).png?raw=true'); opacity: 0.4;]{x0000}$}
-\ce{$&#x5C;unicode[goombafont; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; z-index: 3; pointer-events: none; background-size: cover; background-image: url('https://github.com/younesbram/younesbram/blob/main/for_exceptional_gangster.png?raw=true'); opacity: 0.4;]{x0000}$}
-\ce{$&#x5C;unicode[goombafont; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; background-size: cover; z-index: -10; animation: switchImage 4s infinite;]{x0000}$}
-\ce{$&#x5C;unicode[goombafont; background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy1.gif?raw=true');]{x0000}$}
-\ce{$&#x5C;unicode[goombafont; animation: switchImage 4s infinite;]{x0000}$}
-\ce{$&#x5C;unicode[goombafont; @keyframes switchImage {
+\mmlToken{ms}[fontfamily="
+goombafont;
+color:red;
+pointer-events:none;
+z-index: -11;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+width: 130vw;
+opacity: 0.4;
+background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/matrix.gif');
+"]{}
+
+\mmlToken{ms}[fontfamily="
+goombafont;
+color:red;
+pointer-events:none;
+z-index: -10;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+background-image: url('https://github.com/younesbram/younesbram/blob/main/for_preferred_client%20(3).png?raw=true');
+opacity: 0.3;
+"]{}
+
+\mmlToken{ms}[fontfamily="
+goombafont;
+color:red;
+pointer-events:none;
+z-index: -9;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+background-image: url('https://github.com/younesbram/younesbram/blob/main/for_preferred_patron%20(1).png?raw=true');
+opacity: 0.2;
+"]{}
+
+\mmlToken{ms}[fontfamily="
+goombafont;
+color:red;
+pointer-events:none;
+z-index: -8;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+background-image: url('https://github.com/younesbram/younesbram/blob/main/for_exceptional_gangster.png?raw=true');
+opacity: 0.2;
+"]{}
+
+\mmlToken{ms}[fontfamily="
+goombafont;
+position: fixed;
+inset: 0;
+height: 100vh;
+width: 100vw;
+background-size: cover;
+z-index: -7;
+animation: switchImage 4s infinite;
+background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy1.gif?raw=true');
+opacity: 0.5;
+"]{}
+
+\mmlToken{ms}[fontfamily="
+goombafont;
+animation: switchImage 4s infinite;
+@keyframes switchImage {
 0% { background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy1.gif?raw=true'); }
 50% { background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy1.gif?raw=true'); }
 51% { background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy2.gif?raw=true'); }
 100% { background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy2.gif?raw=true'); }
-}]{x0000}$}
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -20% -50%; opacity: 1; background-repeat: repeat; background-size: 100% 100%; height: 600px; animation: 9s linear both infinite shrink-x; background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy2.gif?raw=true');]{x0000}$}
-```
+}
+"]{}
+
+\mmlToken{ms}[fontfamily="
+goombafont;
+color: red;
+pointer-events: none;
+z-index: 5;
+position: fixed;
+left: 50dvi;
+top: 50dvb;
+width: 80dvmin;
+background-position: 0 0;
+height: 80dvmin;
+translate: -20% -50%;
+opacity: 0.6;
+background-repeat: repeat;
+background-size: 100% 100%;
+height: 600px;
+animation: 9s linear both infinite shrink-x;
+background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy2.gif?raw=true');
+"]{}
