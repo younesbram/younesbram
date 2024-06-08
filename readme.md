@@ -31,36 +31,9 @@ background-size: cover;
 width: 100vw;
 height: 100vh;
 opacity: 1;
-background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/matrix.gif');
+background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/jerry.gif');
 "]{}
 
-\mmlToken{ms}[fontfamily="
-goombafont;
-color:red;
-pointer-events:none;
-z-index: -10;
-position: fixed;
-inset:0;
-object-fit: cover;
-background-size: cover;
-width: 100vw;
-height: 100vh;
-background-image: url('https://github.com/younesbram/younesbram/blob/main/for_preferred_client%20(3).png?raw=true');
-opacity: 0.5;
-"]{}
-
-\mmlToken{ms}[fontfamily="
-goombafont;
-position: fixed;
-inset: 0;
-height: 100vh;
-width: 100vw;
-background-size: cover;
-z-index: -7;
-animation: switchImage 4s infinite;
-background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy1.gif?raw=true');
-opacity: 0.5;
-"]{}
 
 \mmlToken{ms}[fontfamily="
 goombafont;
