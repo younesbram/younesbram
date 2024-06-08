@@ -21,7 +21,7 @@
 ```math
 \mmlToken{ms}[fontfamily="
 goombafont;
-color:red;
+color:black;
 pointer-events:none;
 z-index: -11;
 position: fixed;
@@ -29,7 +29,7 @@ inset:0;
 object-fit: cover;
 background-size: cover;
 width: 130vw;
-opacity: 0.666;
+opacity: 0.8;
 background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/matrix.gif');
 "]{}
 
@@ -43,33 +43,7 @@ inset:0;
 object-fit: cover;
 background-size: cover;
 background-image: url('https://github.com/younesbram/younesbram/blob/main/for_preferred_client%20(3).png?raw=true');
-opacity: 0.5;
-"]{}
-
-\mmlToken{ms}[fontfamily="
-goombafont;
-color:red;
-pointer-events:none;
-z-index: -9;
-position: fixed;
-inset:0;
-object-fit: cover;
-background-size: cover;
-background-image: url('https://github.com/younesbram/younesbram/blob/main/for_preferred_patron%20(1).png?raw=true');
-opacity: 0.5;
-"]{}
-
-\mmlToken{ms}[fontfamily="
-goombafont;
-color:red;
-pointer-events:none;
-z-index: -8;
-position: fixed;
-inset:0;
-object-fit: cover;
-background-size: cover;
-background-image: url('https://github.com/younesbram/younesbram/blob/main/for_exceptional_gangster.png?raw=true');
-opacity: 0.4;
+opacity: 0.666;
 "]{}
 
 \mmlToken{ms}[fontfamily="
@@ -107,8 +81,8 @@ top: 50dvb;
 width: 80dvmin;
 background-position: 0 0;
 height: 80dvmin;
-translate: -20% -50%;
-opacity: 0.6;
+translate: -20% -500%;
+opacity: 0.5;
 background-repeat: repeat;
 background-size: 100% 100%;
 height: 600px;
