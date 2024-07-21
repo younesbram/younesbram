@@ -16,4 +16,3 @@
 [![gitgrep Badge](https://img.shields.io/badge/-my%20repos-black?style=plastic&logo=GitHub&logoColor=white&link=https://younesbram.github.io/)](https://younesbram.github.io/)
 
 
-[![Donate](https://img.shields.io/badge/donate-coffee-green.svg)](https://donate.stripe.com/00g9B7fFN2WZ3uMaEG)
