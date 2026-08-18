@@ -3,7 +3,7 @@
 Cloud / infrastructure / SRE engineer, ~4 years in. Carleton University grad
 (CS, honours in cyber security) — Ottawa, now in orange county.
 
-I like making infrastructure boring: Observability that answers questions instead of generating more.
+I like making infrastructure secure & boring: Observability that answers questions instead of generating more.
 
 **Mostly working in:** Python · Terraform · Kubernetes / GKE · Docker · GitHub Actions · AWS & GCP · Linux · Windows
 
