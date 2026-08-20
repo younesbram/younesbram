@@ -1,7 +1,8 @@
 # Hey, I'm Younes 👋
 
-Cloud / infrastructure / SRE engineer, ~4 years in. Carleton University grad
-(CS, honours in cyber security) — Ottawa, now in orange county.
+Cloud / infrastructure / SRE engineer, ~4 years in.  
+  Carleton University grad
+(CS, honours in cyber security) — Ottawa, now in Orange County.
 
 I like making infrastructure secure & boring: Observability that answers questions instead of generating more.
 
