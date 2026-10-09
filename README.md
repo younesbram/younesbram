@@ -2,7 +2,7 @@
 
 Cloud / infrastructure / SRE engineer.  
   Carleton University grad
-(CS, honours in cyber security) — Ottawa, now in Orange County.
+(CS, honours in cyber security)
 
 I like making infrastructure secure & boring: Observability that answers questions instead of generating more.
 
