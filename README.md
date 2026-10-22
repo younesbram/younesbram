@@ -4,8 +4,6 @@ Cloud / infrastructure / SRE engineer.
   Carleton University grad
 (CS, honours in cyber security)
 
-I like making infrastructure secure & boring: Observability that answers questions instead of generating more.
-
 **Mostly working in:** Python · Terraform · Kubernetes / GKE · Docker · GitHub Actions · AWS & GCP · Linux · Windows
 
 ### Outside the terminal
